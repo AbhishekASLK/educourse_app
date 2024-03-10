@@ -1,6 +1,5 @@
 import 'package:educourse_app/screens/courses/design_course.dart';
 import 'package:educourse_app/screens/courses/uiux_course.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
